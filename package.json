@@ -4,8 +4,7 @@
   "version": "4.0.0-beta.2",
   "description": "A casual HTML website theme for businesses built with Bootstrap",
   "scripts": {
-    "start": {"node app": "6.11.4"}, 
-    "postinstall": "gulp default" },
+    "start": "node gulpfile.js" },
   "keywords": [
     "css",
     "sass",
